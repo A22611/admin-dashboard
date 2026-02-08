@@ -1,4 +1,4 @@
-# Senior Frontend Developer Admin Dashboard
+# Frontend Developer Admin Dashboard
 
 ### 🚀 [Live Demo URL](https://admin-dashboard-beta-seven-76.vercel.app/)
 ### 📁 [GitHub Repository](https://github.com/A22611/admin-dashboard)
